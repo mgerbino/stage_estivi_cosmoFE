@@ -7,6 +7,7 @@ Le esperienze sono pensate e create grazie al contributo di molte persone, sopra
 Il contenuto delle cartelle e' a disposizione di chi volesse consultarlo o usarlo per i propri laboratori. Chiediamo gentilmente a chi decidesse di sfruttare questa risorsa di citare la sua provenienza, riportando soprattutto il nome degli stuenti che hanno collaborato al suo sviluppo sia il link a questa repo github.
 
 -------- English --------
+
 This repo is a collection of lab activities for high-school students developed by the Cosmology group at the University of Ferrara. Senior members of the group are Paolo Natoli (head), Luca Pagano, Massimiliano Lattanzi and Martina Gerbino.
 
 These lab activities have been developed thanks to the invaluable help from many people, especially from our PhD students. In each of the folders, labelled with the academic year, you can find the names of those students who lend their talents to develop each activity.
